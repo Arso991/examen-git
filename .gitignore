@@ -1,0 +1,5 @@
+.environnement
+.config
+*.log
+!main.log
+*.txt
